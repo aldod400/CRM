@@ -89,7 +89,7 @@ A comprehensive Customer Relationship Management (CRM) system built with Laravel
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/crm-system.git
+    git clone https://github.com/aldod400/CRM.git
     cd crm-system
     ```
 
